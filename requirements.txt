@@ -1,2 +1,4 @@
 matplotlib
-python3-tk
+nltk
+stop-words
+gensim

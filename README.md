@@ -2,6 +2,5 @@ docker run -d -p 8080:8888 -e "PASSWORD=zalando" -v /Users/Yury/Documents/BeuthU
 
 docker exec -it <containerIdOrName> bash
 
-
 Install
 sudo apt-get install python3-tk

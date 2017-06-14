@@ -2,3 +2,6 @@ matplotlib
 nltk
 stop-words
 gensim
+pandas
+unicodecsv
+pyldavis
